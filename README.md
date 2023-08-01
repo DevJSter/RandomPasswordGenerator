@@ -1,7 +1,5 @@
 # Random Password Generator
 
-![Random Password Generator](https://example.com/random-password-generator.png)
-
 🔒 **Secure and Strong Passwords, Made Easy!** 🔒
 
 Welcome to the Random Password Generator, a simple yet powerful tool that puts the power of password security in your hands. Say goodbye to weak and easily guessable passwords – with this web app, you can effortlessly create strong and random passwords tailored to your needs.
@@ -34,7 +32,6 @@ Getting started with the Random Password Generator is as easy as 1, 2, 3:
 
 3. **Utilize the Tool:** With the web page open, you can now use the Random Password Generator. Enter the desired password length and choose which character types to include by checking the respective options. Click on the "Generate Password" button, and voilà! Your random password is ready for use.
 
-![Random Password Generator UI](https://example.com/random-password-generator-ui.png)
 
 ## 🛡️ Stay Secure, Stay Informed
 
