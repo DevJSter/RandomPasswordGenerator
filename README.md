@@ -1,4 +1,8 @@
 # Random Password Generator
+# Screenshots of the web
+
+![RPG](https://github.com/DevJSter/Random-password-generator/assets/115056248/1f0f94d4-92bb-4786-8b79-9aec95cfb061)
+
 
 🔒 **Secure and Strong Passwords, Made Easy!** 🔒
 
